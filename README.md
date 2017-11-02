@@ -1,6 +1,3 @@
 # TwoLayers-Android
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Lav2891/TwoLayers-Android.git
-git push -u origin master
+Using two Layouts (.xml) in a single Adapter
+Using a POJO class as data type in ArrayList
